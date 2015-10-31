@@ -29,6 +29,7 @@ public class CustomActivity extends AppCompatActivity {
             @Override
             public void onSlideFinish() {
                 CustomActivity.this.finish();
+                overridePendingTransition(0, 0);
             }
         });
     }

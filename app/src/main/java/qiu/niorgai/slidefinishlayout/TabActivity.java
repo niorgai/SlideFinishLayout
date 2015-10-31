@@ -64,6 +64,7 @@ public class TabActivity extends AppCompatActivity {
             @Override
             public void onSlideFinish() {
                 TabActivity.this.finish();
+                overridePendingTransition(0, 0);
             }
         });
 
