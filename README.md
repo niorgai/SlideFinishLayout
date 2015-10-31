@@ -2,6 +2,8 @@
 
 从左侧滑动返回的Layout
 
+感谢[xiaanming/SlidingFinish](https://github.com/xiaanming/SlidingFinish)
+
 特性
 ---
 1. 当Activity无横向滚动的控件(即子View不会消费Touch事件),可以从Activity任意位置向右侧滑动返回.
