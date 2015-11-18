@@ -4,6 +4,8 @@
 
 感谢[xiaanming/SlidingFinish](https://github.com/xiaanming/SlidingFinish)
 
+总结blog:[Android右滑返回](http://niorgai.github.io/2015/10/31/Android%E5%8F%B3%E6%BB%91%E8%BF%94%E5%9B%9E/)
+
 特性
 ---
 1. 当Activity无横向滚动的控件(即子View不会消费Touch事件),可以从Activity任意位置向右侧滑动返回.
